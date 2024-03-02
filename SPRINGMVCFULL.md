@@ -56,3 +56,8 @@ Spring is a comprehensive framework for Java that simplifies the development of 
 ## Conclusion:
 
 In conclusion, MVC Architecture and the Spring Framework provide a robust foundation for building scalable and maintainable Java applications. MVC's separation of concerns enhances modularity, while Spring's core principles of Dependency Injection and Inversion of Control simplify development. The result is a framework that promotes clean code, loose coupling, and increased testability, making it an ideal choice for a wide range of software development projects. Together, they empower developers to create efficient, organized, and adaptable solutions for both small-scale and enterprise-level applications.
+
+## References
+- [Spring by VMware Tanzu](https://spring.io/projects/spring-framework)
+- [Java by KiranTutorials](https://www.jbktutorials.com/spring-mvc/introduction-to-spring-mvc.php#gsc.tab=0)
+- [ Spring Java in Simple Way](http://javainsimpleway.com/spring-mvc-architecture/)
